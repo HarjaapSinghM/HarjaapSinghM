@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/46224341/130528602-367e4ddb-6bcc-492d-b4ac-3d80c6d34f4a.png)
+![look](https://user-images.githubusercontent.com/1387913/87007215-bed2a900-c176-11ea-9bb6-3273562165fe.gif)
 
-- 🔭 I’m currently working on Zonado
+🔭 I’m currently working on Zonado
 
 
